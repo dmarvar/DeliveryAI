@@ -1,0 +1,22 @@
+name: Generate Documentation
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on:
+  push:
+    branches:
+      - main # Adjust the branch as needed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set Up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "14" # Adjust the Node.js version as needed
+
+      - name: Generate Documentation
+        run: npm run generate-docs # Adjust the script as needed

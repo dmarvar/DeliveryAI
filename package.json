@@ -11,6 +11,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:ci": "echo \"To be defined\"",
+    "generate-docs": "node ./scripts/generate-docs.js",
     "lint": "next lint"
   },
   "dependencies": {
