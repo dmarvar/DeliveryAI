@@ -1,0 +1,34 @@
+# Ignore Node.js build artifacts
+node_modules/
+
+# Ignore development server logs
+.next/
+out/
+
+# Ignore environment files
+.env*
+
+# Ignore build artifacts and public directory
+.next/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore npm package-lock files
+package-lock.json
+
+# Ignore yarn.lock file
+yarn.lock
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.code-workspace
+
+# Ignore temporary files
+*.log
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

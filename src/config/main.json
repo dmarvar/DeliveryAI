@@ -1,0 +1,17 @@
+{
+  "app_host_name": "https://dev-developers.cegid.com/",
+  "dev_path_name": "/proxy",
+  "footer_links": {
+    "about_us": "https://www.cegid.com",
+    "cegid_cloud": "https://www.cegid.com/en/solutions/cloud/",
+    "cegid_innovation_cloud": "https://www.cegid.com/en/solutions/cloud/innovation-cloud/",
+    "blog": "https://www.cegid.com/en/blog/",
+    "faq": "https://www.cegid.com/en/faq/",
+    "terms_of_sales": "https://www.cegid.com/en/terms-of-sales/",
+    "terms_of_use": "https://www.cegid.com/en/terms-of-use/",
+    "privacy_policy": "https://www.cegid.com/en/privacy-policy/",
+    "youtube": "https://www.youtube.com/channel/UC9X6qXgjZJZ4X7ZQ4QlZj0w",
+    "linkedin": "https://www.linkedin.com/company/cegid/",
+    "facebook": "https://www.facebook.com/CegidGroup/"
+  }
+}
